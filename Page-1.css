@@ -197,7 +197,8 @@ html .content span, body .content span {
 
 
 .u-section-1 .u-sheet-1 {
-  min-height: 907px;
+  min-height: 707px;
+  /* background-color: red; */
 }
 
 .u-section-1 .u-text-1 {
@@ -608,7 +609,7 @@ display: none;
 
 
 .u-section-2 .u-sheet-1 {
-  min-height: 800px;
+  min-height: 707px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
@@ -1075,7 +1076,8 @@ display: none;
 
 
 .u-section-5 .u-sheet-1 {
-  min-height: 900px;
+  min-height: 750px;
+  /* background-color: red; */
 }
 
 .u-section-5 .u-text-1 {
