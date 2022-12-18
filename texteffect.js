@@ -1,7 +1,4 @@
-
-
-
-
+// yeaaa , this is not woking 
 var stringRandom = (function() {
 
   var data = {

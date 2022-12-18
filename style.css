@@ -1,4 +1,7 @@
-
+*
+{
+  user-select: none;
+}
 /* ===== Scrollbar CSS ===== */
   /* Firefox */
   * {
@@ -206,7 +209,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 /* SKILL 4 */
 .skill4{
-    width: 75%
+    width: 50%
 }
 
 .skill4 .skill-count4 {

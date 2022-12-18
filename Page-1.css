@@ -626,10 +626,26 @@ display: none;
 }
 
 .u-section-2 .u-image-1 {
-  width: 478px;
-  height: 326px;
-  margin: 0 auto 0 23px;
+  width: 578px;
+  height: 826px;
+  transform: scale(0.5);
+  bottom:150px;
+  filter: grayscale();
+  transition: transform .2s;
+  
+  /* margin: 0 auto 0 23px; */
 }
+.u-section-2 .u-image-1 :hover img{
+  width: 678px;
+  transform: scale3d(1.2, 1.2, 1);
+  height: 926px;
+  transform: scale(0.5);
+  bottom:150px;
+  filter: grayscale();
+  
+  /* margin: 0 auto 0 23px; */
+}
+
 
 .u-section-2 .u-layout-cell-2 {
   min-height: 394px;
