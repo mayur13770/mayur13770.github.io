@@ -640,13 +640,16 @@ display: none;
 
 .u-section-2 .u-image-1 {
   width: 578px;
-  height: 966px;
+  height: 766px;
   transform: scale(0.5);
-  bottom:200px;
   filter: grayscale();
-  background-color: red;
+  position: relative;
+  top:-140px;
+  /* left:-139px; */
+  /* z-index: -1; */
   /* transform: scale(); */
 }
+
 .u-section-2 .u-image-1:hover  { 
   /* transform: scale(1.5); */
   opacity: .6;
@@ -655,9 +658,6 @@ display: none;
   transition: 0.2s;
 
 } 
-
-
-
 .u-section-2 .u-layout-cell-2 {
   min-height: 394px;
 }
