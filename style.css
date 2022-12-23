@@ -105,10 +105,18 @@
     position: relative;
     width:90%;
     left:10%;
+    /* background-color: red; */
     right:10%;
     animation-delay: 3s;
 
     height:500px;
+  }
+  @media  (max-width:400px) {
+    .skillsh{
+      /* background-color: red; */
+      left:5%;
+      position: relative;
+    }
   }
   .wrapper1{
     width: 350px;
